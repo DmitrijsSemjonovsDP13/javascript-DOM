@@ -6,4 +6,4 @@
 
 > How did you go about hiding elements initially?
 
-Your reply here...
+Es rediģēju elementu atibutes un pievienoju stila atribūtu ar displeju, kas iestatīts uz " nav " diviem elementiem.
