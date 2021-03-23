@@ -6,4 +6,4 @@
 
 > What are some refactoring techniques you might apply to the provided solution?
 
-Your reply here...
+Ja es gribētu pārrakstīt kodu citādi, es droši vien atkārtoju visus dokumenta objektus, izmantojot querySellectorAll (), un atrodiet visus ievades laukus un pievienojiet notikumu katram no atrastajiem ievades laukiem. Tas uzlabotu lasāmību, ja ir simtiem ievades lauku,un atvieglotu koda korekciju veikšanu.
